@@ -1,5 +1,5 @@
 # About Me:
-I am currently developing web projects using HTML, CSS, JavaScript, and PHP with Laravel to build responsive applications. I seek collaboration in software development, particularly in information systems, and welcome mentorship to enhance my skills and find internship opportunities. Currently, I am deepening my knowledge of Laravel and modern web development best practices. Feel free to ask about my experience in web development and programming. I enjoy challenges and continuously learn new technologies, including taking online courses to stay updated in the field of information systems.
+I’m currently working on developing web projects using HTML, CSS, JavaScript, PHP and MySQL, while applying the Laravel framework to enhance my skills in building responsive and efficient applications. I’m looking to collaborate on software development or web application projects, especially those related to information systems, where I can contribute my programming skills.
 
 
 ## 🌐 Socials:
